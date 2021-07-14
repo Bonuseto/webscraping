@@ -1,0 +1,4 @@
+Alexandr,Lubnic,45678,27,ZM,2021,
+Georgy,Fragov,20963,5,DP,2019,
+Katerina,Nolkova,13640,14,PP,2019,
+Jiri,Dobry,31850,13,ZM,2019

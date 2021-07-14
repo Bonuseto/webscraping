@@ -1,0 +1,4 @@
+Alexandr,Lubnic,45678,ZM,2021,In Process
+Georgy,Fragov,20963,DP,2019,Decided – REJECTED
+Katerina,Nolkova,13640,PP,2019,Decided – REJECTED
+Jiri,Dobry,31850,ZM,2019,Decided – APPROVED
